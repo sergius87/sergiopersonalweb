@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /en/project1.html
+Disallow: /en/project6.html
+Disallow: /en/project5.html
+Disallow: /en/project4.html
+Disallow: /en/project3.html
+Disallow: /en/project2.html
+Disallow: /assets/ajax/cube-portfolio/*
+Disallow:  https://sergiosaezdeibarra.com/blog/guia-practica-google-data-studio/ 
